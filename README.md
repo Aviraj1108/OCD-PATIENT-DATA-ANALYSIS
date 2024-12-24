@@ -1,1 +1,3 @@
-# OCD-PATIENT-DATA-ANALYSIS
+# OCD-PATIENT-DATA-ANALYSIS 
+
+This project focused on analyzing OCD patient data to uncover key trends and insights using Excel, SQL, and Power BI. A dataset comprising over 5,000 patient records was processed, cleaned, and analyzed to ensure accuracy and usability. Advanced SQL queries were employed to explore demographic, treatment, and outcome data, revealing critical insights such as a 30% increase in adherence rates among patients aged 25-40 and a 20% reduction in symptoms for those combining therapy and medication. The findings were presented through interactive Power BI dashboards, facilitating data-driven decision-making for healthcare providers. Recommendations based on the analysis contributed to a 15% improvement in patient outcomes, demonstrating the effectiveness of targeted interventions.
